@@ -4,4 +4,9 @@
 node_modules
 dist
 .cache
+
+#  Ignore a file in current dir
 /credentials.py
+
+#  Ignore an entire subdir in current dir
+text/
