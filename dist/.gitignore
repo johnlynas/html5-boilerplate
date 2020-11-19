@@ -8,5 +8,8 @@ dist
 #  Ignore a file in current dir
 /credentials.py
 
-#  Ignore an entire subdir in current dir
-text/
+#  Ignore an entire subdir of current dir
+#  text/
+
+#  Ignore txt files in aubdir of current dir
+text/*.txt
